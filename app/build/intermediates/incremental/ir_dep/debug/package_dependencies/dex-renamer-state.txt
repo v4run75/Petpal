@@ -1,0 +1,4 @@
+#Fri Aug 10 14:23:22 IST 2018
+base.0=D\:\\Varun\\Android\\QuizPro\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.0=classes.dex
+renamed.0=classes.dex
